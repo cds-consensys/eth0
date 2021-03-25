@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "cds.sudama@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "openzeppelin-solidity": "2.1.3"
   },
